@@ -232,7 +232,7 @@ void print_nodes(){
     printf("Elements of list are:\n");
     curNode = CMD_TOP;
     while(curNode != NULL){
-        printf("%s at line %d\n", curNode->cmd, curNode->line);
+        printf("LinkedList[%d] Command: %s\n", curNode->line, curNode->cmd);
         curNode = curNode->next;
     }
     POP_TRACE();
@@ -253,6 +253,7 @@ void free_list(CMD_NODE *head){
 
 int main() {
 
+    PUSH_TRACE("main");
     char *cmd;              // ?
     char **cmdsPtr;         // dynamically allocated array of type char **
     int numOfCmds = 10;           // Start with 10 commands
@@ -292,7 +293,8 @@ int main() {
     free(cmd);
     free(cmdsPtr);
 
-
+    POP_TRACE();
+    
     return(0);
 
 }
