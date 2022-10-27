@@ -1,0 +1,247 @@
+ls -al
+ls -l
+cd
+cd ..
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -axls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+ls -al
+ls -l
+cd
+cd .. 
+cd ~
+mkdir hi
+mkdir h2 h3 h4
+rm -r hi 
+touch example
+nano heee
+rm hee
+top
+ps -ax
+
